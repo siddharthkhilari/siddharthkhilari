@@ -1,6 +1,6 @@
 # Hi, I'm Siddharth Khilari 👋
 
-2nd Year IT Student @ Bharati Vidyapeeth College of Engineering, Pune
+3rd Year IT Student @ Bharati Vidyapeeth College of Engineering, Pune
 
 🔭 Currently building: AI Interview Coach
 🌱 Learning: Flask, REST APIs, AI integration
