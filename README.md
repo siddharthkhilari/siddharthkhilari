@@ -2,7 +2,7 @@
 
 3rd Year IT Student @ Bharati Vidyapeeth College of Engineering, Pune
 
-🔭 Currently building: AI Interview Coach
+🔭 Currently building: Projects
 🌱 Learning: Flask, REST APIs, AI integration
 💬 Ask me about: Python, Flask, SQLite, JavaScript
 
